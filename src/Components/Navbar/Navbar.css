@@ -1,5 +1,6 @@
 
 nav{
+    flex-wrap:wrap;
     width: 100%;
     /*background: #777575;*/ 
     color: #fff;
